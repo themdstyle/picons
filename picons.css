@@ -3,7 +3,7 @@
 @font-face {
   font-family: "piconsthin";
   src:url("assets/piconsthin.eot");
-  src:url("piconsthin(1).eot?#iefix") format("embedded-opentype"),
+  src:url("assets/piconsthin (1).eot?#iefix") format("embedded-opentype"),
     url("assets/piconsthin.woff") format("woff"),
     url("picons/piconsthin.ttf") format("truetype"),
     url("assets/piconsthin.svg") format("svg");
