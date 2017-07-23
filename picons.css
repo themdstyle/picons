@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "piconsthin";
-  src:url("picons/piconsthin.eot");
-  src:url("picons/piconsthin.eot?#iefix") format("embedded-opentype"),
-    url("picons/piconsthin.woff") format("woff"),
+  src:url("assets/piconsthin.eot");
+  src:url("assets/piconsthin.eot?#iefix") format("embedded-opentype"),
+    url("assets/piconsthin.woff") format("woff"),
     url("picons/piconsthin.ttf") format("truetype"),
-    url("picons/piconsthin.svg#piconsthin") format("svg");
+    url("assets/piconsthin.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 
